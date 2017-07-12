@@ -1,0 +1,6 @@
+# Sets the locators file format, you could use either elements/json/xls/xlsx file format, however default is json
+# eg: elementsFormat: json
+elementsFormat: json
+
+#Overwrite the port if someother application is listening to 27017
+mongoPort: 27017
